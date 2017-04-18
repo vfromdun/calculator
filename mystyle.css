@@ -1,0 +1,18 @@
+
+/*body {
+    background-image: url(back.jpg);
+    background-size: 100% 100%;
+}*/
+
+div{
+    border-radius: 3px;
+    height: 150px;
+    width: auto;
+
+}
+
+
+p.one {
+
+  height: 20px;
+}
